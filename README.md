@@ -26,8 +26,9 @@ Os algoritmos desenvolvidos em Java nesse programa servem para interagir com um 
 
 1. Abra o Wampserver e certifique que todos os serviços estão sendo executados
 2. Abra o MySQL Workbench e execute o script "BANCO DE DADOS.sql"
-3. Abra o Netbeans e importe o driver de conexão com o banco de dados "DRIVER CONEXÃO"
-4. O sistema está pronto para uso!
+3. Inicie o Netbeans e abra o projeto
+4. Importe o driver de conexão com o banco de dados "DRIVER CONEXÃO"
+5. O sistema está pronto para uso!
 
 ## Instruções de Uso
 1. Ao executar o sistema irá iniciar a tela de "Doença", aonde existirá os campos a serem preenchidos.
