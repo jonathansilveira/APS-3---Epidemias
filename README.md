@@ -3,7 +3,7 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-Este projeto é um sistema construída usando Java e MySQL como banco de dados.
+Este projeto é um sistema construído usando Java e MySQL como banco de dados.
 
 O sistema tem como objetivo apresentar um sistema de prevenção, controle e acompanhamento de epidemias na região de São Paulo, para melhor monitoramento e tratamento de casos epidemiológicos que podem aumentar a sua escala de forma rápida, para que sejam combatidos logo no seu início.
 
@@ -35,7 +35,7 @@ Os algoritmos desenvolvidos em Java nesse programa servem para interagir com um 
 3. Após inserir, a tabela abaixo dos campos será atualizada automaticamente.
 4. Com a tabela atualizada é possivel alterar ou deletar, apenas clicando na tabela qual Doença deseja alterar ou excluir.
 5. Também há um botão de limpar os campos, caso seja necessário.
-6. A segunda tela de "Cidades" se comporta da mesma forma que citada acima.
+6. A segunda tela de "Cidades" se comporta da mesma forma citada acima.
 7. A terceira tela de "Relatório", vai possuir uma lista suspensa aonde o usuário irá selecionar o tipo de comparação que deseja fazer e após selecionar a tabela será inserida com a comparação desejada.
 
 ## Contribuindo
